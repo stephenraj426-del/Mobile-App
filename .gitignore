@@ -90,3 +90,21 @@ backend/models/piper_voices/
 *.exe
 *.dll
 
+
+# Unity IDE generated files
+.vs/
+*.csproj
+*.sln
+*.slnx
+*.user
+*.userprefs
+
+# Unity temporary files
+.utmp/
+*_BurstDebugInformation_DoNotShip/
+*_BackUpThisFolder_ButDontShipItWithYourGame/
+
+# Android build outputs
+*.apk
+*.aab
+
