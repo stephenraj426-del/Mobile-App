@@ -1,0 +1,52 @@
+{
+  "en": {
+    "name": "English",
+    "script": "Latin",
+    "sample_rate": 22050,
+    "tts_engine": "piper",
+    "piper_model": "models/piper_voices/en/en_US-lessac-medium.onnx",
+    "piper_config": "models/piper_voices/en/en_US-lessac-medium.onnx.json",
+    "mfa_dictionary": "english_mfa",
+    "mfa_acoustic_model": "english_mfa"
+  },
+  "ta": {
+    "name": "Tamil",
+    "script": "Tamil",
+    "sample_rate": 24000,
+    "tts_engine": "indicf5",
+    "mfa_dictionary": "models/indicmfa/ta/tamil.dict",
+    "mfa_acoustic_model": "models/indicmfa/ta/tamil.zip"
+  },
+  "ml": {
+    "name": "Malayalam",
+    "script": "Malayalam",
+    "sample_rate": 24000,
+    "tts_engine": "indicf5",
+    "mfa_dictionary": "models/indicmfa/ml/malayalam.dict",
+    "mfa_acoustic_model": "models/indicmfa/ml/malayalam.zip"
+  },
+  "hi": {
+    "name": "Hindi",
+    "script": "Devanagari",
+    "sample_rate": 24000,
+    "tts_engine": "indicf5",
+    "mfa_dictionary": "models/indicmfa/hi/hindi.dict",
+    "mfa_acoustic_model": "models/indicmfa/hi/hindi.zip"
+  },
+  "te": {
+    "name": "Telugu",
+    "script": "Telugu",
+    "sample_rate": 24000,
+    "tts_engine": "indicf5",
+    "mfa_dictionary": "models/indicmfa/te/telugu.dict",
+    "mfa_acoustic_model": "models/indicmfa/te/telugu.zip"
+  },
+  "kn": {
+    "name": "Kannada",
+    "script": "Kannada",
+    "sample_rate": 24000,
+    "tts_engine": "indicf5",
+    "mfa_dictionary": "models/indicmfa/kn/kannada.dict",
+    "mfa_acoustic_model": "models/indicmfa/kn/kannada.zip"
+  }
+}

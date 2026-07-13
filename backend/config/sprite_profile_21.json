@@ -1,0 +1,32 @@
+{
+  "spriteOrder": [
+    { "index": 0,  "name": "REST_CLOSED",  "jawOpen": 0.00, "mouthScaleX": 1.00, "mouthScaleY": 1.00 },
+    { "index": 1,  "name": "AA_WIDE",      "jawOpen": 0.86, "mouthScaleX": 1.00, "mouthScaleY": 1.18 },
+    { "index": 2,  "name": "EE_NARROW",    "jawOpen": 0.42, "mouthScaleX": 1.18, "mouthScaleY": 0.92 },
+    { "index": 3,  "name": "OO_ROUND",     "jawOpen": 0.28, "mouthScaleX": 0.72, "mouthScaleY": 0.85 },
+    { "index": 4,  "name": "UH_MISC",      "jawOpen": 0.35, "mouthScaleX": 1.00, "mouthScaleY": 1.00 },
+    { "index": 5,  "name": "M_B_P",        "jawOpen": 0.00, "mouthScaleX": 0.98, "mouthScaleY": 0.96 },
+    { "index": 6,  "name": "F_V",          "jawOpen": 0.18, "mouthScaleX": 0.96, "mouthScaleY": 0.98 },
+    { "index": 7,  "name": "TH",           "jawOpen": 0.20, "mouthScaleX": 1.00, "mouthScaleY": 0.95 },
+    { "index": 8,  "name": "L_D_T",        "jawOpen": 0.28, "mouthScaleX": 1.02, "mouthScaleY": 0.98 },
+    { "index": 9,  "name": "SH_CH",        "jawOpen": 0.22, "mouthScaleX": 0.85, "mouthScaleY": 0.92 },
+    { "index": 10, "name": "K_G",          "jawOpen": 0.32, "mouthScaleX": 1.00, "mouthScaleY": 1.02 },
+    { "index": 11, "name": "S_Z",          "jawOpen": 0.15, "mouthScaleX": 1.05, "mouthScaleY": 0.90 },
+    { "index": 12, "name": "I_NEAR_EE",    "jawOpen": 0.20, "mouthScaleX": 1.10, "mouthScaleY": 0.85 },
+    { "index": 13, "name": "O_HALF_OPEN",  "jawOpen": 0.55, "mouthScaleX": 0.85, "mouthScaleY": 1.00 },
+    { "index": 14, "name": "AW_VOWEL",     "jawOpen": 0.65, "mouthScaleX": 0.90, "mouthScaleY": 1.05 },
+    { "index": 15, "name": "N_CONSONANT",  "jawOpen": 0.25, "mouthScaleX": 1.00, "mouthScaleY": 1.00 },
+    { "index": 16, "name": "UR_VOWEL",     "jawOpen": 0.35, "mouthScaleX": 0.90, "mouthScaleY": 0.95 },
+    { "index": 17, "name": "W_SOUND",      "jawOpen": 0.20, "mouthScaleX": 0.65, "mouthScaleY": 0.85 },
+    { "index": 18, "name": "H_BREATH",     "jawOpen": 0.22, "mouthScaleX": 1.00, "mouthScaleY": 1.00 },
+    { "index": 19, "name": "AE_SHORT",     "jawOpen": 0.55, "mouthScaleX": 1.05, "mouthScaleY": 1.05 },
+    { "index": 20, "name": "ERR_MODIFIER", "jawOpen": 0.28, "mouthScaleX": 0.85, "mouthScaleY": 0.95 }
+  ],
+  "smoothing": {
+    "anticipationMs": 42,
+    "minimumHoldMs": 48,
+    "silenceCloseAfterMs": 70,
+    "vowelDominanceMs": 55,
+    "maxFrameGapMs": 80
+  }
+}

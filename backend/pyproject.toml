@@ -1,0 +1,13 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "indic-lipsync-production"
+version = "1.1.0"
+description = "English + Indic open-source 18-sprite lip-sync pipeline"
+requires-python = ">=3.10"
+
+[tool.setuptools.packages.find]
+where = ["."]
+include = ["production_lipsync*"]

@@ -1,0 +1,23 @@
+{
+  "REST_CLOSED": 0.77,
+  "AA_WIDE": 6.2,
+  "EE_NARROW": 1.56,
+  "OO_ROUND": 4.695,
+  "UH_MISC": 5.16,
+  "M_B_P": 2.435,
+  "F_V": 6.615,
+  "L_D_T": 5.915,
+  "SH_CH": 4.03,
+  "K_G": 4.435,
+  "S_Z": 5.605,
+  "I_NEAR_EE": 3.145,
+  "O_HALF_OPEN": 2.385,
+  "AW_VOWEL": 8.26,
+  "N_CONSONANT": 5.335,
+  "AE_SHORT": 8.805,
+  "ERR_MODIFIER": 9.22,
+  "TH": 5.915,
+  "W_SOUND": 6.615,
+  "UR_VOWEL": 6.2,
+  "H_BREATH": 5.16
+}

@@ -1,0 +1,92 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.venv/
+venv/
+env/
+.env
+
+# Outputs and temporary files
+outputs/
+runs/
+temp/
+tmp/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+MemoryCaptures/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Large AI model files
+*.onnx
+*.pth
+*.pt
+*.ckpt
+
+# Archives
+*.zip
+*.rar
+*.7z
+
+# Python package generated metadata
+*.egg-info/
+backend/indic_lipsync_production.egg-info/
+
+# Large installers
+backend/Miniconda3-latest-Windows-x86_64.exe
+
+# Test and reference videos
+backend/*.mp4
+
+# Generated/test audio
+backend/*.wav
+
+# Review/debug images
+backend/review*.png
+
+# Piper downloaded runtime binaries and models
+backend/models/piper_runtime/
+backend/models/piper_voices/
+
+# Windows binaries
+*.exe
+*.dll
+
+
+# Python package generated metadata
+*.egg-info/
+backend/indic_lipsync_production.egg-info/
+
+# Large installers
+backend/Miniconda3-latest-Windows-x86_64.exe
+
+# Test and reference videos
+backend/*.mp4
+
+# Generated/test audio
+backend/*.wav
+
+# Review/debug images
+backend/review*.png
+
+# Piper downloaded runtime binaries and models
+backend/models/piper_runtime/
+backend/models/piper_voices/
+
+# Windows binaries
+*.exe
+*.dll
+
